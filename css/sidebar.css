@@ -1,0 +1,20 @@
+.sidebar {
+  position: fixed;
+  display: inline-block;
+  bottom: 200px;
+  right: -177px;
+}
+
+.sidebar aside {
+  display: flex;
+  text-align: center;
+}
+
+.sidebar aside a {
+  width: 165px;
+  border: solid 1px cl(white);
+  padding: 1.0714em;
+  font-size: 0.875rem;
+  transition: 0.6s;
+}
+/*# sourceMappingURL=sidebar.css.map */
